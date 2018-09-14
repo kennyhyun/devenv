@@ -1,9 +1,11 @@
-## Docker Development environment
+## Development environment using docker
 
 This is to share development environment including system tools
 
 - Easy to setup using docker
 - Mount host directory as a user home directory
+
+Check also https://github.com/kennyhyun/devenv/wiki/Docker and https://github.com/kennyhyun/devenv/wiki
 
 ### Prerequisites
 
