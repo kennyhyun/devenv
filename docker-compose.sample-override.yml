@@ -1,0 +1,8 @@
+version: '3'
+services:
+  devenv:
+    build:
+      args:
+        MAIN_USER: 'kenny'
+    volumes:
+      - /c/Users/khyun/docker/kenny:/home/kenny/
