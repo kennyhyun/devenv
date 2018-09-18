@@ -3,4 +3,4 @@ services:
   devenv:
     build: .
     volumes:
-      - /c/Users/khyun/docker/storage:/storage/
+      - /storage/devenv:/storage/
